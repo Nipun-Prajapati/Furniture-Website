@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("Images/Green_Forest.jpg");
+    background-image: url("Green_Forest.jpg");
     background-size: cover;
 }
 

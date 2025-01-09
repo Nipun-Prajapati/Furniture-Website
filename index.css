@@ -121,7 +121,7 @@
     height: 80vh;
     width: 98%;
     background-size: cover;
-    background-image: url("Images/s1.png");
+    background-image: url("s1.png");
     border: 2px solid black;
     border-radius: 10px;
 }
@@ -129,7 +129,7 @@
     height: 80vh;
     width: 98%;
     background-size: cover;
-    background-image: url("Images/s2.png");
+    background-image: url("s2.png");
     border: 2px solid black;
     border-radius: 10px;
 }
@@ -137,7 +137,7 @@
     height: 80vh;
     width: 98%;
     background-size: cover;
-    background-image: url("Images/s3.png");
+    background-image: url("s3.png");
     border: 2px solid black;
     border-radius: 10px;
 }
@@ -145,7 +145,7 @@
     height: 80vh;
     width: 98%;
     background-size: cover;
-    background-image: url("Images/s4.png");
+    background-image: url("s4.png");
     border: 2px solid black;
     border-radius: 10px;
 }
@@ -153,7 +153,7 @@
     height: 80vh;
     width: 98%;
     background-size: cover;
-    background-image: url("Images/s5.png");
+    background-image: url("s5.png");
     border: 2px solid black;
     border-radius: 10px;
 }
@@ -161,7 +161,7 @@
     height: 80vh;
     width: 98%;
     background-size: cover;
-    background-image: url("Images/s6.png");
+    background-image: url("s6.png");
     border: 2px solid black;
     border-radius: 10px;
 }
@@ -242,42 +242,42 @@
 .sofa-img1 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/sofa1.png");
+    background-image: url("sofa1.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
 .sofa-img2 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/sofa2.png");
+    background-image: url("sofa2.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
 .sofa-img3 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/sofa3.png");
+    background-image: url("sofa3.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
 .sofa-img4 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/sofa4.png");
+    background-image: url("sofa4.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
 .sofa-img5 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/sofa5.png");
+    background-image: url("sofa5.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
 .sofa-img6 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/sofa6.png");
+    background-image: url("sofa6.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -316,7 +316,7 @@
 .Dinning-img1 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/Table1.png");
+    background-image: url("Table1.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -324,7 +324,7 @@
 .Dinning-img2 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/Table2.png");
+    background-image: url("Table2.png");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 80px;
@@ -334,7 +334,7 @@
 .Dinning-img3 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/Table3.png");
+    background-image: url("Table3.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -343,7 +343,7 @@
 .Dinning-img4 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/Table4.png");
+    background-image: url("Table4.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -352,7 +352,7 @@
 .Dinning-img5 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/Table5.png");
+    background-image: url("Table5.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -361,7 +361,7 @@
 .Dinning-img6 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/Table6.png");
+    background-image: url("Table6.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -371,7 +371,7 @@
 .bed-img1 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/bed1.png");
+    background-image: url("bed1.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -379,7 +379,7 @@
 .bed-img2 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/bed2.png");
+    background-image: url("bed2.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -387,7 +387,7 @@
 .bed-img3 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/bed3.png");
+    background-image: url("bed3.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -395,7 +395,7 @@
 .bed-img4 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/bed4.png");
+    background-image: url("bed4.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -403,7 +403,7 @@
 .bed-img5 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/bed5.png");
+    background-image: url("bed5.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -411,7 +411,7 @@
 .bed-img6 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/bed6.png");
+    background-image: url("bed6.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -462,7 +462,7 @@
      width: 200px;
      border-radius: 50% ;
      background-color: white;
-     background-image: url("Images/Pooja.png");
+     background-image: url("Pooja.png");
      background-size: cover;
 }
 .review-img2 {
@@ -470,7 +470,7 @@
      width: 200px;
      border-radius: 50% ;
      background-color: white;
-     background-image: url("Images/mahesh.png");
+     background-image: url("mahesh.png");
      background-size: cover;
 }
 .review-img3 {
@@ -478,7 +478,7 @@
      width: 200px;
      border-radius: 50% ;
      background-color: white;
-     background-image: url("Images/Rakul.png");
+     background-image: url("Rakul.png");
      background-size: cover;
 }
 .review-img4 {
@@ -486,7 +486,7 @@
      width: 200px;
      border-radius: 50% ;
      background-color: white;
-     background-image: url("Images/tom.png");
+     background-image: url("tom.png");
      background-size: cover;
 }
 .review-img5 {
@@ -494,7 +494,7 @@
      width: 200px;
      border-radius: 50% ;
      background-color: white;
-     background-image: url("Images/hande.png");
+     background-image: url("hande.png");
      background-size: cover;
 }
 .review-img6 {
@@ -502,7 +502,7 @@
      width: 200px;
      border-radius: 50% ;
      background-color: white;
-     background-image: url("Images/chris-evans.png");
+     background-image: url("chris-evans.png");
      background-size: cover;
 }
 .review-img7 {
@@ -510,7 +510,7 @@
      width: 200px;
      border-radius: 50% ;
      background-color: white;
-     background-image: url("Images/Sradhdha.png");
+     background-image: url("Sradhdha.png");
      background-size: cover;
 }
 .review-img8 {
@@ -518,7 +518,7 @@
      width: 200px;
      border-radius: 50% ;
      background-color: white;
-     background-image: url("Images/sreleela.png");
+     background-image: url("sreleela.png");
      background-size: cover;
 }
 .review-img9 {
@@ -526,7 +526,7 @@
      width: 200px;
      border-radius: 50% ;
      background-color: white;
-     background-image: url("Images/allu.png");
+     background-image: url("allu.png");
      background-size: cover;
 }
 
@@ -542,7 +542,7 @@
     height: 180px;
     width: 350px;
     margin-left: 100px;
-    background-image: url("Images/Desk1.png");
+    background-image: url("Desk1.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -551,7 +551,7 @@
 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/Desk2.png");
+    background-image: url("Desk2.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -560,7 +560,7 @@
 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/Desk3.png");
+    background-image: url("Desk3.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -569,7 +569,7 @@
 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/Desk4.png");
+    background-image: url("Desk4.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -578,7 +578,7 @@
 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/Desk5.png");
+    background-image: url("Desk5.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -587,7 +587,7 @@
 {
     height: 180px;
     width: 350px;
-    background-image: url("Images/Desk6.png");
+    background-image: url("Desk6.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
